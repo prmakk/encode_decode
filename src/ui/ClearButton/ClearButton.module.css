@@ -1,0 +1,16 @@
+.clearBtn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    background-color: #bfded6;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: 0.1s all ease-in;
+}
+
+.clearBtn:hover{
+    background-color: #9dcdc0;
+}
